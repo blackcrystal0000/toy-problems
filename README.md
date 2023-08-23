@@ -59,6 +59,9 @@ Note: in the second example, we cross out the vowels to get "str" and "ngth". Th
 
 Enjoy solving these toy problems!
 
+## Author
+Crystal Kariuki. 
+
 ## License
 MIT License
 
